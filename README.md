@@ -19,7 +19,7 @@ This project explores a synthetic e-commerce dataset to uncover insights into cu
 
 ## 📈 Key Insights
 
-- **Young adults** are the most frequent shoppers and respond best to ads.
+- **Adults** are the most frequent shoppers and respond best to ads.
 - **Adults customers** show the highest brand loyalty and spending.
 - **Desktop users** prefer online shopping, while smartphone users prefer a mix of both online shopping and in-store.
 - **Ad engagement** is not strongly correlated with purchase frequency.
