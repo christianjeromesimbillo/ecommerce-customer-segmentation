@@ -26,7 +26,7 @@ This project explores a synthetic e-commerce dataset to uncover insights into cu
 
 ## 📊 Live Dashboard
 
-👉 [View the Tableau Dashboard](https://public.tableau.com/app/profile/christian.jerome.simbillo/viz/E-CommerceCustomerSegmentationDashboard/Dashboard1)
+🔗 [View the Tableau Dashboard](https://public.tableau.com/app/profile/christian.jerome.simbillo/viz/E-CommerceCustomerSegmentationDashboard/Dashboard1)
 
 ## 🗂️ Project Files
 
