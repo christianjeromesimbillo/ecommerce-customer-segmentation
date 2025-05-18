@@ -39,4 +39,6 @@ This project explores a synthetic e-commerce dataset to uncover insights into cu
 
 ---
 
-📌 *This project is part of my transition from civil engineering into the data analytics field. I'm passionate about solving business problems with data and currently seeking entry-level roles in analytics.*
+📌 This case study was completed as part of the Google Data Analytics Certification Program. It demonstrates my ability to execute a complete analytics project—from asking business questions to preparing and analyzing data, visualizing insights, and recommending actions.
+
+It also serves to showcase my transition into the field of data analytics. I am currently pursuing entry-level roles in data analytics, where I can apply the skills I’ve developed to solve real-world business problems using data-driven insights.
