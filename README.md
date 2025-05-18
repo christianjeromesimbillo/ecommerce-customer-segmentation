@@ -32,9 +32,11 @@ This project explores a synthetic e-commerce dataset to uncover insights into cu
 
 | File | Description |
 |------|-------------|
-| SQL Queries | BigQuery queries used for data analysis |
-| Charts | Screenshots of Tableau charts |
-| `README.md` | This file — project documentation |
+| `README.md` | This file — summary |
+| `e-commerce_customer_segmentation_dashboard` | Screenshots of Tableau charts |
+| `ecommerce_data_cleaned.xlsx` | Cleaned Dataset used for analysis |
+| `project-documentation.md` | Project Documentation |
+| `sql_queries.txt` | BigQuery queries used for analysis |
 
 
 ---
